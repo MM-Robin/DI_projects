@@ -1,0 +1,106 @@
+m255
+K4
+z2
+!s99 nomlopt
+!s11e vcom 2021.3 2021.07, Jul 13 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/runner
+T_opt
+Z1 !s110 1690458179
+V4iNGL[a9TE<D_i0e^W^8Q1
+04 8 3 work cnt16_tb sim 1
+=1-000ae431a4f1-64c25843-2fe31-1a
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt
+OL;O;2021.3;73
+Ecnt16
+Z3 w1690458176
+Z4 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+R0
+Z7 8design.vhd
+Z8 Fdesign.vhd
+l0
+L5 1
+V_eDm8n]RHoV7_;6elXfE02
+!s100 LfL96K:K_UbnSkI@@;VIa1
+Z9 OL;C;2021.3;73
+33
+Z10 !s110 1690458178
+!i10b 1
+Z11 !s108 1690458178.000000
+Z12 !s90 -2008|design.vhd|testbench.vhd|
+Z13 !s107 testbench.vhd|design.vhd|
+!i113 0
+Z14 o-2008
+R2
+Aproc_2
+R4
+R5
+R6
+DEx4 work 5 cnt16 0 22 _eDm8n]RHoV7_;6elXfE02
+!i122 0
+l24
+L20 43
+VTgQE[>h=G19JXfib2bhFB3
+!s100 zElRMbz:H3UbaAlNQoRW_0
+R9
+33
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 0
+R14
+R2
+Ecnt16_tb
+R3
+R5
+R6
+!i122 1
+R0
+Z15 8testbench.vhd
+Z16 Ftestbench.vhd
+l0
+L7 1
+VTK?0Voj3E89aDVX=aE@2f2
+!s100 63_n7>>G<k`MzS[jfmd=d3
+R9
+32
+R1
+!i10b 1
+Z17 !s108 1690458179.000000
+Z18 !s90 -work|work|testbench.vhd|
+Z19 !s107 testbench.vhd|
+!i113 0
+Z20 o-work work
+R2
+Asim
+R5
+R6
+DEx4 work 8 cnt16_tb 0 22 TK?0Voj3E89aDVX=aE@2f2
+!i122 1
+l31
+L11 33
+VL@>kHOSI1@5O;HfDiEeV>2
+!s100 hhW?;b_IYd<F?5oFg<V8j0
+R9
+32
+R1
+!i10b 1
+R17
+R18
+R19
+!i113 0
+R20
+R2

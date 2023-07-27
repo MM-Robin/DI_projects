@@ -1,0 +1,35 @@
+Riviera-PRO 2022.04.117.8517(Linux64) 2023-07-27 07:37:21
+
+Elaboration top modules:
+Architecture                  SIM(NBITADDER_TB)
+
+
+-------------------------------------------------------------------------------------------
+Entity       | Architecture | Library | Info | Compiler Version      | Compilation Options
+-------------------------------------------------------------------------------------------
+NBITADDER_TB | SIM          | work    |      | 2022.04.117 (Linux64) |  -2019
+NBITADDER    | DATAFLOW     | work    |      | 2022.04.117 (Linux64) |  -2019
+-------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------
+VHDL Package                | Library | Info | Compiler Version      | Compilation Options
+-------------------------------------------------------------------------------------------
+standard                    | std     |      |                       | <unavailable>
+TEXTIO                      | std     |      | 2022.04.117 (Linux64) |  -2019
+std_logic_1164              | ieee    |      | 2022.04.117 (Linux64) |  -2008
+-------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------
+Library                     | Comment
+-------------------------------------------------------------------------------------------
+ieee                        | Standard IEEE packages library
+std                         | Standard VHDL library
+work                        | None
+-------------------------------------------------------------------------------------------
+
+
+Simulation Options: asim NBITADDER_TB
+
+License to run VHDL performance optimized simulation unavailable.
+
+The performance of simulation is reduced. Version EDU Edition
