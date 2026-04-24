@@ -1,6 +1,6 @@
 # DI_projects
 
-the aim of lab session-2 is 
+the aim of lab **session-2** is 
   1. The VHDL coding of the digital circuit in a text editor,
   2. Simulation of full adder.
   3. Simuation of N-bit adder.
@@ -15,11 +15,11 @@ the aim of lab session-2 is
      switches,LEDs and measurements of physical parameters like propagation delays with the oscilloscope.
 
      
-The aim of lab session-3 is 
-  -> simulation of MODULO-16 up/down counter.
-  -> simulation of counter counting from 0-f.
-  -> simulation of 7 segment display.
-  -> extension of 7segment display for a new output.
- -> to schedule actions or measure accurate times in microcontrollers,
- -> to schedule control modes and operating times of machines or
- -> to define the timing behavior in digital communication systems.
+The aim of lab **session-3** is 
+  - simulation of MODULO-16 up/down counter.
+  - simulation of counter counting from 0-f.
+  - simulation of 7 segment display.
+  - extension of 7segment display for a new output.
+  - to schedule actions or measure accurate times in microcontrollers,
+  - to schedule control modes and operating times of machines or
+  - to define the timing behavior in digital communication systems.
