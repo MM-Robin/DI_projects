@@ -1,0 +1,37 @@
+# Simulation build artifacts
+work/
+accellera_ovl_vhdl/
+
+# Active-HDL
+*.asdb
+*.mgf
+work.top
+library.cfg
+
+# ModelSim / QuestaSim
+modelsim.ini
+*.ini
+transcript
+vsim.wlf
+
+# Waveform dumps
+*.vcd
+*.ghw
+*.lxt
+*.fst
+
+# Logs
+elaboration.log
+*.log
+
+# Xilinx / Quartus
+*.qdb
+*.qpg
+*.qtl
+*.qsf
+_vmake
+_info
+
+# OS
+.DS_Store
+Thumbs.db
